@@ -174,8 +174,3 @@ To explore and run the notebook:
 
 ---
 
-## 🤝 Author
-
-* **Name:** Bruhadev
-* **Email:** [devbruha@gmail.com](mailto:devbruha@gmail.com)
-* **GitHub:** [github.com/Bruhadev45](https://github.com/Bruhadev45)
