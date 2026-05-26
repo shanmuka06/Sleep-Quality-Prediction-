@@ -104,27 +104,6 @@ The tuned Random Forest was used to extract and visualize feature importances, i
 
 ---
 
-## 🚀 Getting Started
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/your-username/sleep-quality-prediction.git
-cd sleep-quality-prediction
-```
-
-### 2. Install dependencies
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn
-```
-
-### 3. Add the dataset
-Place `Sleep_health_and_lifestyle_dataset.csv` in the project root directory.  
-> The dataset is available on [Kaggle](https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset).
-
-### 4. Run the notebook
-```bash
-jupyter notebook Sleep_Quality_Prediction.ipynb
-```
 
 ---
 
